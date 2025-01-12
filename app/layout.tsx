@@ -18,7 +18,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-        <div className="min-h-screen bg-[url('https://hebbkx1anhila5yf.public.blob.vercel-storage.com/istockphoto-965148388-612x612.jpg-cT6ZUlxae8qmdp0SAqbBUDcvyhkaVK.jpeg')] bg-cover bg-fixed">
+        <div className="min-h-screen bg-[url('https://cdn.jsdelivr.net/gh/MikuMikuMe/frmrr/public/istockphoto-965148388-612x612.jpeg')] bg-cover bg-fixed">
           <div className="bg-black bg-opacity-50 min-h-screen">
             <Header />
             {children}
